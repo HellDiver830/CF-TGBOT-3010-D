@@ -1,0 +1,28 @@
+# Виртуальное окружение
+.venv/
+venv/
+
+# Артефакты Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Логи
+*.log
+logs/
+
+# Конфиги окружения
+.env
+.env.*
+
+# IDE / редакторы
+.vscode/
+.idea/
+*.iml
+
+# Системные файлы Windows / macOS
+Thumbs.db
+Desktop.ini
+.DS_Store
